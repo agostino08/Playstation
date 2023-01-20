@@ -1,4 +1,4 @@
-# :video_game:git Playstation, e-commerce page website made with HTML/CSS
+# :video_game: Playstation, e-commerce page website made with HTML/CSS
 
  ## Welcome to Playstation.
  
